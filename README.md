@@ -84,7 +84,7 @@
 
 ###
 
-<h2 align="left">🔭 I’m currently working on Quotes Helper<br>🌱 I’m currently learning Next.js, Python, Node.js<br>📫 How to reach me: dk44r@yandex.ru</h2>
+<h2 align="left">🔭 I’m currently working on Quotes Helper<br>🌱 I’m currently learning React Native, Next.js, Python, Node.js<br>📫 How to reach me: dk44r@yandex.ru</h2>
 
 ###
 
